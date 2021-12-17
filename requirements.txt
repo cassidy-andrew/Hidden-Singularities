@@ -1,0 +1,7 @@
+numpy
+scipy
+matplotlib.pyplot
+matplotlib
+os
+
+
