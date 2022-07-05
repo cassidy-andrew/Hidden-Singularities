@@ -1,2 +1,2 @@
 # Hidden-Singularities
-The is a repository for the executable papers to accompany the paper "Hidden singularities in the solid state"
+The repository accompanies the paper "Hidden singularities in the solid state". It provides an executable paper to allow the reader follow the mathematical analysis directly.
